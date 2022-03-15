@@ -1,0 +1,70 @@
+[
+    {
+        "song": "Enemy",
+        "artists": ["Imagine Dragons", "JID"],
+        "genres": ["Soul"],
+        "year": 2021
+    },
+    {
+        "song": "Hello",
+        "artists": ["Adele"],
+        "genres": ["Pop"],
+        "year": 2015
+    },
+    {
+        "song": "Levitating",
+        "artists": ["Dua Lipa"],
+        "genres": ["Pop"],
+        "year": 2020
+    },
+    {
+        "song": "Happier than ever",
+        "artists": ["Billie Eilish"],
+        "genres": ["Alternative" ,"Indie"],
+        "year": 2021
+    },
+    {
+        "song": "I drink wine",
+        "artists": ["Adele"],
+        "genres": ["Pop"],
+        "year": 2021
+    },
+    {
+        "song": "Fly me to the moon",
+        "artists": ["Frank Sinatra"],
+        "genres": ["Jazz"],
+        "year": 1964
+    },
+    {
+        "song": "I love Kanye",
+        "artists": ["Kanye West"],
+        "genres": ["Hip Hop"],
+        "year": 2016
+    },
+    {
+        "song": "Certified Lover Boy",
+        "artists": ["Drake"],
+        "genres": ["Hip Hop"],
+        "year": 2021
+    },
+    {
+        "song": "Sindbad",
+        "artists": ["Marwan Pablo"],
+        "genres": ["Hip Hop"],
+        "year": 2021
+    },
+    {
+        "song": "Fair Trade",
+        "artists": ["Drakes"],
+        "genres": ["Hip Hop"],
+        "year": 2021
+    },
+    {
+        "song": "Florida",
+        "artists": ["Marwan Moussa"],
+        "genres": ["Hip Hop"],
+        "year": 2021
+    }
+
+
+]
